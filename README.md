@@ -1,3 +1,7 @@
+
+This project covers Angular concepts like Interpolation, Property Binding, Class Binding, Event Binding Template referance variables
+
+
 # MyApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.1.0.
